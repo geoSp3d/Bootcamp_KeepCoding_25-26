@@ -1,0 +1,29 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.sqlite3
+
+# Entornos virtuales
+venv/
+.venv/
+env/
+.env/
+
+# Archivos de editor/IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Logs pesados o temporales
+*.log
+*.tmp
+
+# Capturas muy grandes o ficheros generados
+*.pcap
+*.pcapng
