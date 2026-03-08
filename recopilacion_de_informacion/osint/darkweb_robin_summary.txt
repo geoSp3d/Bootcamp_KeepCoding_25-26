@@ -1,0 +1,13 @@
+Resumen complementario de threat intelligence – Robin
+
+Se generó un análisis complementario con Robin para revisar el ecosistema de foros, marketplaces, leak sites y servicios de monitorización relacionados con exposición de bases de datos y datos corporativos.
+
+Conclusiones principales:
+- existe un ecosistema activo y profesionalizado de leak marketplaces y foros
+- la exposición de datos corporativos y business contacts es un vector real dentro de estos entornos
+- el análisis no proporcionó evidencia concluyente de una intrusión o filtración específica de Tesco
+- su valor es contextual y estratégico, no probatorio
+
+Uso en informe:
+- apéndice / apoyo contextual
+- justificación del riesgo asociado a exposición documental y de identidades corporativas

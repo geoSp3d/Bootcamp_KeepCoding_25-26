@@ -1,0 +1,14 @@
+Validación manual de muestra reducida en Have I Been Pwned
+
+Correos revisados:
+- muestra de identidades ejecutivas y corporativas plausibles de Tesco
+
+Resultado general:
+- varias direcciones aparecían en datasets externos
+- parte de la exposición era compatible con business-contact datasets / breach intelligence
+- no se obtuvo evidencia de compromiso interno de Tesco
+- sí se confirmó exposición externa de identidades corporativas correlacionables
+
+Uso en informe:
+- soporte para H4
+- refuerzo del riesgo de spear phishing, impersonación y targeting

@@ -1,0 +1,12 @@
+Notas contextuales sobre fuentes de stealer logs
+
+Se observaron referencias a URLs legítimas de Tesco en fuentes donde se agregan datos procedentes de malware infostealer y ecosistemas de credenciales comprometidas.
+
+Interpretación:
+- valor contextual
+- no evidencia de compromiso de Tesco
+- sí indica relevancia de activos de autenticación y contacto dentro de ecosistemas de exposición de credenciales
+
+Uso en informe:
+- apoyo contextual OSINT
+- no se presenta como hallazgo principal

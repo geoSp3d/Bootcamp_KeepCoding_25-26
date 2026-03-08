@@ -1,0 +1,19 @@
+Resumen de pivots obtenidos con Maltego
+
+Nodo base:
+- tesco.com
+
+Relaciones útiles observadas:
+- personas visibles públicamente
+- correos corporativos
+- MX externos
+- NS y proveedores DNS
+- pivots compatibles con áreas de seguridad, arquitectura y operación
+
+Valor práctico:
+- inferencia del patrón de correo corporativo
+- identificación de personal técnico/corporativo relevante
+- apoyo a validación posterior en HIBP y OSINT ejecutivo
+
+Conclusión:
+Maltego se utilizó como herramienta de correlación, no como fuente de hallazgo primario aislado.

@@ -1,0 +1,22 @@
+Documentos públicos revisados durante la fase OSINT:
+
+1. book2.pdf
+- Host: tescoplc.com
+- Valor: hallazgo principal de exposición documental
+- Contenido relevante: directorio estructurado de contactos, nombres de personas, tiendas y correos
+
+2. veg-tracker.pdf
+- Host: tesco.com
+- Valor: análisis de metadatos
+- Contenido relevante: rutas locales, nombre de usuario local, software de producción documental
+
+3. primary-supplier-list_jan-2022.pdf
+- Host: tescoplc.com
+- Valor: revisado como documento público complementario
+- Resultado: sin hallazgo principal consolidado
+
+4. AgileApplicationSecuirtyFramework.pdf
+- Host: tesco.com / documento público relacionado
+- Valor: revisado como documento complementario
+- Resultado: sin hallazgo principal consolidado
+

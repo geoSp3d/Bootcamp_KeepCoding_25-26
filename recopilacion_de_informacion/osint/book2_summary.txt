@@ -1,0 +1,17 @@
+Hallazgo H1 – Exposición pública de directorio de contactos
+
+Documento revisado:
+- book2.pdf
+- accesible públicamente desde tescoplc.com
+
+Resumen:
+Se identificó un documento PDF públicamente accesible que contenía un directorio estructurado de contactos vinculados a tiendas Tesco. El documento incluía nombres de tiendas, nombres de personas, roles operativos asociados a "Community Champion" y direcciones de correo corporativo.
+
+Impacto:
+- enumeración de personal válido
+- identificación de correos operativos reales
+- asociación persona ↔ tienda ↔ función
+- apoyo a phishing dirigido, impersonación y pretexting
+
+Severidad propuesta:
+- Media

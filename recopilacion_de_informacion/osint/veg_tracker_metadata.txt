@@ -1,0 +1,22 @@
+Hallazgo H2 – Filtración de metadatos documentales
+
+Documento revisado:
+- veg-tracker.pdf
+
+Metadatos relevantes extraídos:
+- rutas locales de macOS
+- nombre de usuario local: nina.brennan
+- nombres de ficheros fuente:
+  - Veg tracker-RFP2.indd
+  - 91TMZMAY20128.pdf
+- software de producción:
+  - Adobe InDesign
+  - Adobe Photoshop
+
+Valor del hallazgo:
+- profiling de personal o terceros
+- exposición de contexto interno de producción documental
+- apoyo a ingeniería social
+
+Severidad propuesta:
+- Baja / Informativa

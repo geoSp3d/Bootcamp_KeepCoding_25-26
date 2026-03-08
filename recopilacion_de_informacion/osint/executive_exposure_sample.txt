@@ -1,0 +1,15 @@
+Muestra reducida de identidades corporativas revisadas
+
+Perfiles revisados:
+- Guus Dekkers
+- Ken Murphy
+- Natasha Adams
+- muestra adicional de personal corporativo
+
+Observaciones:
+- fue posible inferir un patrón de correo corporativo consistente con nombre.apellido@tesco.com
+- varios perfiles de alto valor son fácilmente identificables por fuentes públicas
+- la combinación de cargo público + patrón de correo + exposición externa incrementa el riesgo de spear phishing y BEC
+
+Nota:
+La exposición observada no se interpreta como evidencia de intrusión en Tesco, sino como correlación de identidades corporativas en fuentes externas y business-contact datasets.
