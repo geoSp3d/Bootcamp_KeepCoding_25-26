@@ -1,0 +1,27 @@
+toolkit.tesco.com
+- CSP revela uso de:
+  - *.ourtesco.com
+  - *.blob.core.windows.net
+  - *.akamaihd.net
+  - *.nr-data.net
+  - *.newrelic.com
+  - *.googletagmanager.com
+  - *.google-analytics.com
+  - gateway.zscalertwo.net
+  - *.wistia.com
+
+realfood.tesco.com
+- Microsoft-IIS/10.0
+- ASP.NET
+- ASP.NET_SessionId
+- HSTS
+- X-Frame-Options
+- X-Content-Type-Options
+- Cross-Origin-Opener-Policy
+
+smetrics.tesco.com
+- Server: jag
+- HSTS
+- X-Content-Type-Options
+- X-Frame-Options
+- Referrer-Policy

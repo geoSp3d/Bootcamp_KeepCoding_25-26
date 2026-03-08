@@ -1,0 +1,413 @@
+
+                [1;97m______
+               [1;97m/      \
+              [1;97m(  W00f! )
+               [1;97m\  ____/
+               [1;97m,,    [1;92m__            [1;93m404 Hack Not Found
+           [1;96m|`-.__   [1;92m/ /                     [1;91m __     __
+           [1;96m/"  _/  [1;92m/_/                       [1;91m\ \   / /
+          [1;94m*===*    [1;92m/                          [1;91m\ \_/ /  [1;93m405 Not Allowed
+         [1;96m/     )__//                           [1;91m\   /
+    [1;96m/|  /     /---`                        [1;93m403 Forbidden
+    [1;96m\\/`   \ |                                 [1;91m/ _ \
+    [1;96m`\    /_\\_              [1;93m502 Bad Gateway  [1;91m/ / \ \  [1;93m500 Internal Error
+      [1;96m`_____``-`                             [1;91m/_/   \_\\
+
+                        [1;96m~ WAFW00F : [1;94mv2.3.2 ~[1;97m
+        The Web Application Firewall Fingerprinting Toolkit
+    [0m
+[*] Checking https://api-ppe.tesco.com
+[+] Generic Detection results:
+[-] No WAF detected by the generic detection
+[~] Number of requests: 7
+[*] Checking https://api.tesco.com
+[+] Generic Detection results:
+[-] No WAF detected by the generic detection
+[~] Number of requests: 7
+[*] Checking https://assets.api.tesco.com
+[+] The site [1;94mhttps://assets.api.tesco.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://autodiscover.tesco.com
+[*] Checking https://autodiscover.tesco.com.my
+[+] The site [1;94mhttps://autodiscover.tesco.com.my[0m is behind [1;96mCloudflare (Cloudflare Inc.)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://card-ppe.sys-api.tesco.com
+[+] The site [1;94mhttps://card-ppe.sys-api.tesco.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://card.tesco.com
+[+] The site [1;94mhttps://card.tesco.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://careers.tesco.com
+[+] Generic Detection results:
+[-] No WAF detected by the generic detection
+[~] Number of requests: 7
+[*] Checking https://cdn.emails.tesco.com
+[+] The site [1;94mhttps://cdn.emails.tesco.com[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://ce-cc-middleware.tesco.com
+[+] Generic Detection results:
+[*] The site https://ce-cc-middleware.tesco.com seems to be behind a WAF or some sort of security solution
+[~] Reason: The server returns a different response code when an attack string is used.
+Normal response code is "400", while the response code to cross-site scripting attack is "403"
+[~] Number of requests: 5
+[*] Checking https://chef-ppe.ourtesco.com
+[+] The site [1;94mhttps://chef-ppe.ourtesco.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://click.mail.tesco.com
+[+] The site [1;94mhttps://click.mail.tesco.com[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://colleague.ourtesco.com
+[+] The site [1;94mhttps://colleague.ourtesco.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://colleague-scheduler.ourtesco.com
+[+] The site [1;94mhttps://colleague-scheduler.ourtesco.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://colleague-scheduler-ppe.ourtesco.com
+[+] The site [1;94mhttps://colleague-scheduler-ppe.ourtesco.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://communitycookeryschool.tesco.com
+[+] The site [1;94mhttps://communitycookeryschool.tesco.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://customerpayment-ppe.tesco.com
+[+] The site [1;94mhttps://customerpayment-ppe.tesco.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://customer-service.tesco.com
+[+] The site [1;94mhttps://customer-service.tesco.com[0m is behind [1;96mASP.NET Generic (Microsoft)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://data.emails.tesco.com
+[+] Generic Detection results:
+[-] No WAF detected by the generic detection
+[~] Number of requests: 7
+[*] Checking https://depot-ordering-b2botm-is.ourtesco.com
+[+] The site [1;94mhttps://depot-ordering-b2botm-is.ourtesco.com[0m is behind [1;96mAWS Elastic Load Balancer (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://depot-ordering-b2botm-is-ppe.ourtesco.com
+[+] The site [1;94mhttps://depot-ordering-b2botm-is-ppe.ourtesco.com[0m is behind [1;96mAWS Elastic Load Balancer (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://developers.tesco.com
+[+] The site [1;94mhttps://developers.tesco.com[0m is behind [1;96mAWS Elastic Load Balancer (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://device.mobile.tesco.com
+[+] Generic Detection results:
+[-] No WAF detected by the generic detection
+[~] Number of requests: 7
+[*] Checking https://digitalcontent.api.tesco.com
+[+] The site [1;94mhttps://digitalcontent.api.tesco.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://digitalcontent-ppe.api.tesco.com
+[+] The site [1;94mhttps://digitalcontent-ppe.api.tesco.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://email.tesco.com
+[+] The site [1;94mhttps://email.tesco.com[0m is behind [1;96mASP.NET Generic (Microsoft)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://enrichment-qa.tesco.com
+[+] Generic Detection results:
+[-] No WAF detected by the generic detection
+[~] Number of requests: 7
+[*] Checking https://feedback-dashboard.tesco.com
+[+] Generic Detection results:
+[-] No WAF detected by the generic detection
+[~] Number of requests: 7
+[*] Checking https://feedback.tesco.com
+[+] Generic Detection results:
+[-] No WAF detected by the generic detection
+[~] Number of requests: 7
+[*] Checking https://help.ourtesco.com
+[+] The site [1;94mhttps://help.ourtesco.com[0m is behind [1;96mAWS Elastic Load Balancer (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://help-ppe.ourtesco.com
+[+] The site [1;94mhttps://help-ppe.ourtesco.com[0m is behind [1;96mAWS Elastic Load Balancer (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://identity-mobile.api.tesco.com
+[+] The site [1;94mhttps://identity-mobile.api.tesco.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://identity-ppe.api.tesco.com
+[+] The site [1;94mhttps://identity-ppe.api.tesco.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://itsm.tesco.com
+[+] The site [1;94mhttps://itsm.tesco.com[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://learning-security.ourtesco.com
+[+] The site [1;94mhttps://learning-security.ourtesco.com[0m is behind [1;96mAWS Elastic Load Balancer (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://legacy.tesco.com.my
+[+] The site [1;94mhttps://legacy.tesco.com.my[0m is behind [1;96mCloudflare (Cloudflare Inc.)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://managerui.colleague-scheduler.ourtesco.com
+[+] The site [1;94mhttps://managerui.colleague-scheduler.ourtesco.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://managerui.colleague-scheduler-ppe.ourtesco.com
+[+] The site [1;94mhttps://managerui.colleague-scheduler-ppe.ourtesco.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://mi.tesco.com
+[+] The site [1;94mhttps://mi.tesco.com[0m is behind [1;96mCloudfront (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://mobilegateway.sys.ourtesco.com
+[+] The site [1;94mhttps://mobilegateway.sys.ourtesco.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://mobile.tesco.com.my
+[+] The site [1;94mhttps://mobile.tesco.com.my[0m is behind [1;96mCloudflare (Cloudflare Inc.)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://mojetesco.com
+[+] The site [1;94mhttps://mojetesco.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://mrs2.tesco.com.my
+[+] The site [1;94mhttps://mrs2.tesco.com.my[0m is behind [1;96mCloudflare (Cloudflare Inc.)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://myproductdevelopnonfood.toolkit-dev.tesco.com
+[+] The site [1;94mhttps://myproductdevelopnonfood.toolkit-dev.tesco.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://myproductdevelopnonfood.toolkit-ppe.tesco.com
+[*] Checking https://myproductdevelopnonfood.toolkit.tesco.com
+[*] Checking https://myproduct-induct-dev.tesco.com
+[+] The site [1;94mhttps://myproduct-induct-dev.tesco.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://myproduct-induct-ppe.tesco.com
+[+] The site [1;94mhttps://myproduct-induct-ppe.tesco.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://myproductinduct-ppe.tesco.com
+[+] The site [1;94mhttps://myproductinduct-ppe.tesco.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://myproduct-induct.tesco.com
+[+] The site [1;94mhttps://myproduct-induct.tesco.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://myproductinduct.tesco.com
+[+] The site [1;94mhttps://myproductinduct.tesco.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://myproduct.tesco.com
+[+] The site [1;94mhttps://myproduct.tesco.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://nexusdockerhosted-ppe.sys.ourtesco.com
+[+] The site [1;94mhttps://nexusdockerhosted-ppe.sys.ourtesco.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://nexusdockerhosted.sys.ourtesco.com
+[+] The site [1;94mhttps://nexusdockerhosted.sys.ourtesco.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://nexusdockerprivate-ppe.sys.ourtesco.com
+[+] The site [1;94mhttps://nexusdockerprivate-ppe.sys.ourtesco.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://nexusdockerprivate.sys.ourtesco.com
+[+] The site [1;94mhttps://nexusdockerprivate.sys.ourtesco.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://nexus.ourtesco.com
+[+] The site [1;94mhttps://nexus.ourtesco.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://nexus-ppe.ourtesco.com
+[+] The site [1;94mhttps://nexus-ppe.ourtesco.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://orchard.tesco.com
+[+] The site [1;94mhttps://orchard.tesco.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://ourtesco.com
+[+] The site [1;94mhttps://ourtesco.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://outattesco.com
+[+] The site [1;94mhttps://outattesco.com[0m is behind [1;96mCloudflare (Cloudflare Inc.)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://partners.tesco.com
+[+] The site [1;94mhttps://partners.tesco.com[0m is behind [1;96mASP.NET Generic (Microsoft)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://partnerstoolkit.tesco.com
+[+] The site [1;94mhttps://partnerstoolkit.tesco.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://payment.api.tesco.com
+[+] The site [1;94mhttps://payment.api.tesco.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://payment-dev.api.tesco.com
+[*] Checking https://payment-ppe.api.tesco.com
+[+] The site [1;94mhttps://payment-ppe.api.tesco.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://payment-ppe.tesco.com
+[+] The site [1;94mhttps://payment-ppe.tesco.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://payment.tesco.com
+[+] The site [1;94mhttps://payment.tesco.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://pbtool.tesco.com
+[+] Generic Detection results:
+[*] The site https://pbtool.tesco.com seems to be behind a WAF or some sort of security solution
+[~] Reason: The server returns a different response code when an attack string is used.
+Normal response code is "200", while the response code to cross-site scripting attack is "403"
+[~] Number of requests: 5
+[*] Checking https://pdm.tesco.com
+[+] Generic Detection results:
+[-] No WAF detected by the generic detection
+[~] Number of requests: 7
+[*] Checking https://phone-shop.tesco.com
+[+] The site [1;94mhttps://phone-shop.tesco.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://platform.api-dev.tesco.com
+[+] The site [1;94mhttps://platform.api-dev.tesco.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://portal.cdo.tesco.com
+[+] The site [1;94mhttps://portal.cdo.tesco.com[0m is behind [1;96mAWS Elastic Load Balancer (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://potf-ppe.tesco.com
+[+] The site [1;94mhttps://potf-ppe.tesco.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://potf.tesco.com
+[+] The site [1;94mhttps://potf.tesco.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://ppe.ourtesco.com
+[+] The site [1;94mhttps://ppe.ourtesco.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://preview.tesco.com
+[+] The site [1;94mhttps://preview.tesco.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://qualityconnect.tesco.com
+[+] The site [1;94mhttps://qualityconnect.tesco.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://rangeplan-ppe.sys-api.tesco.com
+[+] The site [1;94mhttps://rangeplan-ppe.sys-api.tesco.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://rangeplan-txt-ppe.sys-api.tesco.com
+[+] The site [1;94mhttps://rangeplan-txt-ppe.sys-api.tesco.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://range-ppe.api.tesco.com
+[+] The site [1;94mhttps://range-ppe.api.tesco.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://realfood.tesco.com
+[+] The site [1;94mhttps://realfood.tesco.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://sdc-tesco.com.tesco.com
+[+] The site [1;94mhttps://sdc-tesco.com.tesco.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://search.api.tesco.com
+[+] Generic Detection results:
+[*] The site https://search.api.tesco.com seems to be behind a WAF or some sort of security solution
+[~] Reason: The server returns a different response code when an attack string is used.
+Normal response code is "404", while the response code to cross-site scripting attack is "403"
+[~] Number of requests: 5
+[*] Checking https://search-ppe.api.tesco.com
+[+] Generic Detection results:
+[*] The site https://search-ppe.api.tesco.com seems to be behind a WAF or some sort of security solution
+[~] Reason: The server returns a different response code when an attack string is used.
+Normal response code is "404", while the response code to cross-site scripting attack is "403"
+[~] Number of requests: 5
+[*] Checking https://secure-ppe.tesco.com
+[+] Generic Detection results:
+[-] No WAF detected by the generic detection
+[~] Number of requests: 7
+[*] Checking https://secure.tesco.com
+[+] Generic Detection results:
+[-] No WAF detected by the generic detection
+[~] Number of requests: 7
+[*] Checking https://servermfa.tesco.com
+[+] The site [1;94mhttps://servermfa.tesco.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://smetrics.tesco.com
+[+] Generic Detection results:
+[-] No WAF detected by the generic detection
+[~] Number of requests: 7
+[*] Checking https://sonarqube.ourtesco.com
+[+] The site [1;94mhttps://sonarqube.ourtesco.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://sonarqube-ppe.ourtesco.com
+[+] The site [1;94mhttps://sonarqube-ppe.ourtesco.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://sso.colleague-scheduler.ourtesco.com
+[+] The site [1;94mhttps://sso.colleague-scheduler.ourtesco.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://sso.colleague-scheduler-ppe.ourtesco.com
+[+] The site [1;94mhttps://sso.colleague-scheduler-ppe.ourtesco.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://sstm.tesco.com
+[+] Generic Detection results:
+[*] The site https://sstm.tesco.com seems to be behind a WAF or some sort of security solution
+[~] Reason: The server returns a different response code when an attack string is used.
+Normal response code is "400", while the response code to cross-site scripting attack is "403"
+[~] Number of requests: 5
+[*] Checking https://stock.api.tesco.com
+[+] The site [1;94mhttps://stock.api.tesco.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://storedvalue.api.tesco.com
+[+] The site [1;94mhttps://storedvalue.api.tesco.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://storedvalue-ppe.api.tesco.com
+[+] The site [1;94mhttps://storedvalue-ppe.api.tesco.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://strongerstarts.tesco.com
+[+] Generic Detection results:
+[*] The site https://strongerstarts.tesco.com seems to be behind a WAF or some sort of security solution
+[~] Reason: The server returns a different response code when an attack string is used.
+Normal response code is "200", while the response code to cross-site scripting attack is "403"
+[~] Number of requests: 5
+[*] Checking https://supplierorder-ppe.api.tesco.com
+[+] The site [1;94mhttps://supplierorder-ppe.api.tesco.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://supplychain-ppe.tesco.com
+[+] The site [1;94mhttps://supplychain-ppe.tesco.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://supplychain.tesco.com
+[+] The site [1;94mhttps://supplychain.tesco.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://technologyrisk.ourtesco.com
+[+] The site [1;94mhttps://technologyrisk.ourtesco.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://tesco.com
+[+] Generic Detection results:
+[-] No WAF detected by the generic detection
+[~] Number of requests: 7
+[*] Checking https://toolkit-dev.tesco.com
+[+] The site [1;94mhttps://toolkit-dev.tesco.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://toolkit-ppe.tesco.com
+[+] The site [1;94mhttps://toolkit-ppe.tesco.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://toolkit-qa.tesco.com
+[+] Generic Detection results:
+[*] The site https://toolkit-qa.tesco.com seems to be behind a WAF or some sort of security solution
+[~] Reason: The server returns a different response code when an attack string is used.
+Normal response code is "503", while the response code to cross-site scripting attack is "403"
+[~] Number of requests: 5
+[*] Checking https://toolkit.tesco.com
+[+] The site [1;94mhttps://toolkit.tesco.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://tpc-ppe.tesco.com
+[*] Checking https://tradingpartner.api.tesco.com
+[+] The site [1;94mhttps://tradingpartner.api.tesco.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://tradingpartner-ppe.api.tesco.com
+[+] The site [1;94mhttps://tradingpartner-ppe.api.tesco.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://vceu.tesco.com
+[+] Generic Detection results:
+[-] No WAF detected by the generic detection
+[~] Number of requests: 7
+[*] Checking https://vc.tesco.com
+[+] Generic Detection results:
+[-] No WAF detected by the generic detection
+[~] Number of requests: 7
+[*] Checking https://waitingroom-ppe.tesco.com
+[+] The site [1;94mhttps://waitingroom-ppe.tesco.com[0m is behind [1;96mAWS Elastic Load Balancer (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://waitingroom.tesco.com
+[+] The site [1;94mhttps://waitingroom.tesco.com[0m is behind [1;96mAWS Elastic Load Balancer (Amazon)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://webmail.tesco.com.my
+[+] The site [1;94mhttps://webmail.tesco.com.my[0m is behind [1;96mCloudflare (Cloudflare Inc.)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://webmca.tesco.com
+[+] Generic Detection results:
+[*] The site https://webmca.tesco.com seems to be behind a WAF or some sort of security solution
+[~] Reason: The server returns a different response code when an attack string is used.
+Normal response code is "503", while the response code to cross-site scripting attack is "403"
+[~] Number of requests: 5
+[*] Checking https://www.ourtesco.com
+[+] The site [1;94mhttps://www.ourtesco.com[0m is behind [1;96mKona SiteDefender (Akamai)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://www.outattesco.com
+[+] The site [1;94mhttps://www.outattesco.com[0m is behind [1;96mCloudflare (Cloudflare Inc.)[0m WAF.
+[~] Number of requests: 2
+[*] Checking https://www-ppe.tesco.com
+[+] Generic Detection results:
+[-] No WAF detected by the generic detection
+[~] Number of requests: 7
+[*] Checking https://www.tesco.com
+[+] Generic Detection results:
+[-] No WAF detected by the generic detection
+[~] Number of requests: 7
+[*] Checking https://xapi.tesco.com
+[+] Generic Detection results:
+[-] No WAF detected by the generic detection
+[~] Number of requests: 7

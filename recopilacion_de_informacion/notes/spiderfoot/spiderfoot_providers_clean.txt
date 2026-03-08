@@ -1,0 +1,10 @@
+careers.tesco.com -> tesco.avature.net
+careers.tesco.com -> portals-tesco.avature.net
+careers.tesco.com -> smtp-iatsapp-prod-ln03.avature.net
+customer-service.tesco.com -> tesco.slgnt.eu
+customer-service.tesco.com -> mx1.slgnt.eu
+email.tesco.com -> tesco.slgnt.eu
+smetrics.tesco.com -> tesco.com.ssl.sc.omtrdc.net
+tesco.com -> mxa-00492d01.gslb.pphosted.com
+tesco.com -> mxb-00492d01.gslb.pphosted.com
+tesco.com -> UltraDNS (ns12.ultradns2.com / pdns194.ultradns.*)

@@ -1,0 +1,15 @@
+data.emails.tesco.com
+mi.tesco.com
+myproductdevelopnonfood.toolkit-ppe.tesco.com
+myproductdevelopnonfood.toolkit.tesco.com
+myproductinduct-ppe.tesco.com
+myproduct-induct.tesco.com
+myproductinduct.tesco.com
+outattesco.com
+pbtool.tesco.com
+potf.tesco.com
+secure.tesco.com
+smetrics.tesco.com
+strongerstarts.tesco.com
+supplychain.tesco.com
+www.outattesco.com

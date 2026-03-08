@@ -1,0 +1,5 @@
+Updated,Type,Module,Source,F/P,Data
+2026-03-02 22:42:30,PROVIDER_MAIL,sfp_dnsraw,customer-service.tesco.com,0,mx1.slgnt.eu
+2026-03-02 22:26:41,PROVIDER_MAIL,sfp_dnsraw,tesco.com,0,mxa-00492d01.gslb.pphosted.com
+2026-03-02 22:26:41,PROVIDER_MAIL,sfp_dnsraw,tesco.com,0,mxb-00492d01.gslb.pphosted.com
+2026-03-02 22:35:25,PROVIDER_MAIL,sfp_dnsraw,careers.tesco.com,0,smtp-iatsapp-prod-ln03.avature.net

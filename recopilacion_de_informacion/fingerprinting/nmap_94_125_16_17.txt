@@ -1,0 +1,22 @@
+# Nmap 7.98 scan initiated Sat Mar  7 16:38:53 2026 as: /usr/lib/nmap/nmap --privileged -Pn -n -sV -p 53,1720,5060,45003,45007,45009 -oN nmap_94_125_16_17.txt 94.125.16.17
+Nmap scan report for 94.125.16.17
+Host is up (0.040s latency).
+
+PORT      STATE    SERVICE     VERSION
+53/tcp    filtered domain
+1720/tcp  open     h323q931?
+5060/tcp  open     sip         (SIP end point; Status: 200 OK)
+45003/tcp open     ssl/unknown
+45007/tcp open     ssl/unknown
+45009/tcp open     ssl/unknown
+1 service unrecognized despite returning data. If you know the service/version, please submit the following fingerprint at https://nmap.org/cgi-bin/submit.cgi?new-service :
+SF-Port5060-TCP:V=7.98%I=7%D=3/7%Time=69AC469C%P=x86_64-pc-linux-gnu%r(SIP
+SF:Options,150,"SIP/2\.0\x20200\x20OK\r\nVia:\x20SIP/2\.0/TCP\x20nm;branch
+SF:=foo;received=81\.92\.202\.118;rport=54562\r\nFrom:\x20<sip:nm@nm>;tag=
+SF:root\r\nTo:\x20<sip:nm2@nm2>;tag=pLCREUg1i4Ios3y8\r\nCSeq:\x2042\x20OPT
+SF:IONS\r\nCall-ID:\x2050000\r\nSupported:\x20categoryList,adhoclist,sdp-a
+SF:nat,replaces\r\nAllow:\x20INVITE,ACK,OPTIONS,CANCEL,BYE,REGISTER,INFO,S
+SF:UBSCRIBE,NOTIFY,MESSAGE\r\nContent-Length:\x200\r\n\r\n");
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Sat Mar  7 16:41:46 2026 -- 1 IP address (1 host up) scanned in 172.85 seconds
