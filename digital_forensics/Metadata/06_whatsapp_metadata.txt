@@ -1,0 +1,23 @@
+ExifTool Version Number         : 12.76
+File Name                       : 06_whatsapp.jpeg
+Directory                       : .
+File Size                       : 369 kB
+File Modification Date/Time     : 2026:06:05 11:46:54+02:00
+File Access Date/Time           : 2026:06:05 12:15:25+02:00
+File Inode Change Date/Time     : 2026:06:05 11:46:54+02:00
+File Permissions                : -rwxrwxrwx
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.01
+Resolution Unit                 : None
+X Resolution                    : 1
+Y Resolution                    : 1
+Image Width                     : 1512
+Image Height                    : 2016
+Encoding Process                : Progressive DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 1512x2016
+Megapixels                      : 3.0
